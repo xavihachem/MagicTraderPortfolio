@@ -55,7 +55,7 @@ const Navbar = ({ theme, toggleTheme }) => {
             className="cursor-pointer relative group flex items-center"
           >
             <div className="relative">
-              <img src="/logo.svg" alt="Mehdi Trading" className="h-10" />
+              <img src={`${process.env.PUBLIC_URL}/logo.svg`} alt="Mehdi Trading" className="h-10" />
               <div className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gold-gradient transition-all duration-300 group-hover:w-full"></div>
             </div>
             <div className="ml-2 text-xs uppercase tracking-widest font-medium text-neutral-500 dark:text-neutral-400">

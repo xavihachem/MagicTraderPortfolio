@@ -132,7 +132,7 @@ const AnimatedQuote = ({ quote, author, position }) => {
           viewport={{ once: true }}
         >
           <div className="w-12 h-12 rounded-full mr-4 overflow-hidden bg-neutral-200 border border-gold-500/30">
-            <img src="/arab-businessman.jpg" alt={author} className="w-full h-full object-cover" />
+            <img src={`${process.env.PUBLIC_URL}/arab-businessman.jpg`} alt={author} className="w-full h-full object-cover" />
           </div>
           <div>
             <h4 className="font-semibold text-neutral-800 dark:text-neutral-100">{author}</h4>

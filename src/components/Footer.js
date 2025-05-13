@@ -88,7 +88,7 @@ const Footer = () => {
             duration={500}
             className="cursor-pointer mb-6 transform hover:scale-105 transition-transform duration-300"
           >
-            <img src="/logo.svg" alt="Mehdi Trading" className="h-12" />
+            <img src={`${process.env.PUBLIC_URL}/logo.svg`} alt="Mehdi Trading" className="h-12" />
           </Link>
           
           {/* Description */}

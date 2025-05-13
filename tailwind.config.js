@@ -69,8 +69,8 @@ module.exports = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gold-gradient': 'linear-gradient(to right, #b8860b, #d4af37, #b8860b)',
         'blue-gradient': 'linear-gradient(to right, #1e3a8a, #3b82f6, #1e3a8a)',
-        'hero-pattern': 'url("/src/assets/grid-pattern.svg")',
-        'trader-pattern': 'url("/src/assets/trading-pattern.svg")'
+        'hero-pattern': 'none',
+        'trader-pattern': 'none'
       },
       boxShadow: {
         'gold': '0 4px 14px 0 rgba(184, 134, 11, 0.39)',

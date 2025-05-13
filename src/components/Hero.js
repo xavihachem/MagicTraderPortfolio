@@ -162,7 +162,7 @@ const Hero = () => {
             {/* Profile image with fancy border */}
             <div className="relative rounded-full p-1 bg-gold-gradient shadow-gold overflow-hidden w-[280px] h-[280px] sm:w-[350px] sm:h-[350px]">
               <img 
-                src="/mehdiportfolio.png" 
+                src={`${process.env.PUBLIC_URL}/assets/mehdiportfolio.png`} 
                 alt="Mehdi - Professional Trader" 
                 className="w-full h-full object-cover rounded-full object-top"
                 style={{ objectPosition: '50% 30%' }}
