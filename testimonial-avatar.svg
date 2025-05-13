@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="avatarGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#b8860b;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b8860b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="60" cy="60" r="60" fill="url(#avatarGradient)" />
+  
+  <!-- Stylized face silhouette -->
+  <path d="M60 30c-11 0-20 12-20 30 0 7 2 13 5 18 2 3 5 5 8 7 2 1 4 2 7 2 0 0 0 0 0 0 0 0 0 0 0 0 3 0 5-1 7-2 3-2 6-4 8-7 3-5 5-11 5-18 0-18-9-30-20-30z" fill="#333" />
+  
+  <!-- Beard -->
+  <path d="M40 65c0 0 5 15 20 15 15 0 20-15 20-15 0 0-5 25-20 25-15 0-20-25-20-25z" fill="#333" />
+  
+  <!-- Turban/head covering -->
+  <path d="M60 25c-13 0-25 10-25 20 0 5 2 10 5 13 0 0 5-18 20-18 15 0 20 18 20 18 3-3 5-8 5-13 0-10-12-20-25-20z" fill="#333" />
+  
+  <!-- Decorative elements on turban -->
+  <circle cx="60" cy="25" r="5" fill="url(#avatarGradient)" />
+  <rect x="55" y="20" width="10" height="5" fill="url(#avatarGradient)" />
+</svg>

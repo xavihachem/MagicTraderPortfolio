@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MagicTraderPortfolio/static/css/main.42be59cb.css",
+    "main.js": "/MagicTraderPortfolio/static/js/main.fdb7a540.js",
+    "static/js/488.eb4e1b39.chunk.js": "/MagicTraderPortfolio/static/js/488.eb4e1b39.chunk.js",
+    "index.html": "/MagicTraderPortfolio/index.html",
+    "static/media/grid-pattern.svg": "/MagicTraderPortfolio/static/media/grid-pattern.9ea1ba3dd17a3b8cdd18.svg",
+    "main.42be59cb.css.map": "/MagicTraderPortfolio/static/css/main.42be59cb.css.map",
+    "main.fdb7a540.js.map": "/MagicTraderPortfolio/static/js/main.fdb7a540.js.map",
+    "488.eb4e1b39.chunk.js.map": "/MagicTraderPortfolio/static/js/488.eb4e1b39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42be59cb.css",
+    "static/js/main.fdb7a540.js"
+  ]
+}
