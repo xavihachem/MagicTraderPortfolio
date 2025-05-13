@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MagicTraderPortfolio/static/css/main.42be59cb.css",
-    "main.js": "/MagicTraderPortfolio/static/js/main.c53cf3b9.js",
+    "main.css": "/MagicTraderPortfolio/static/css/main.e386fa9a.css",
+    "main.js": "/MagicTraderPortfolio/static/js/main.6aa839c3.js",
     "static/js/488.eb4e1b39.chunk.js": "/MagicTraderPortfolio/static/js/488.eb4e1b39.chunk.js",
     "index.html": "/MagicTraderPortfolio/index.html",
     "static/media/grid-pattern.svg": "/MagicTraderPortfolio/static/media/grid-pattern.9ea1ba3dd17a3b8cdd18.svg",
-    "main.42be59cb.css.map": "/MagicTraderPortfolio/static/css/main.42be59cb.css.map",
-    "main.c53cf3b9.js.map": "/MagicTraderPortfolio/static/js/main.c53cf3b9.js.map",
+    "main.e386fa9a.css.map": "/MagicTraderPortfolio/static/css/main.e386fa9a.css.map",
+    "main.6aa839c3.js.map": "/MagicTraderPortfolio/static/js/main.6aa839c3.js.map",
     "488.eb4e1b39.chunk.js.map": "/MagicTraderPortfolio/static/js/488.eb4e1b39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42be59cb.css",
-    "static/js/main.c53cf3b9.js"
+    "static/css/main.e386fa9a.css",
+    "static/js/main.6aa839c3.js"
   ]
 }

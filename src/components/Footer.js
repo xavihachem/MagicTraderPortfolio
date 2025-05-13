@@ -101,7 +101,9 @@ const Footer = () => {
           <div className="flex justify-center space-x-6 mb-10">
             {/* X (Twitter) */}
             <a
-              href="#"
+              href="https://x.com/MehdiMagic1"
+              target="_blank"
+              rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-neutral-800 flex items-center justify-center hover:bg-gold-gradient transition-all duration-300 group"
               aria-label="X (Twitter)"
             >
@@ -112,7 +114,9 @@ const Footer = () => {
             
             {/* LinkedIn */}
             <a
-              href="#"
+              href="https://www.linkedin.com/in/mehdi-magic-6a4002287/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-neutral-800 flex items-center justify-center hover:bg-gold-gradient transition-all duration-300 group"
               aria-label="LinkedIn"
             >

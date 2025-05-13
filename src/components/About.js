@@ -30,7 +30,7 @@ const About = () => {
                   {/* Image container */}
                   <div className="relative">
                     <img
-                      src={`${process.env.PUBLIC_URL}/assets/mehdiportfolio.png`}
+                      src={`${process.env.PUBLIC_URL}/mehdiportfolio.png`}
                       alt="Mehdi - Professional Trader"
                       className="w-full h-[500px] object-cover object-top"
                       style={{ objectPosition: '50% 30%' }}
